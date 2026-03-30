@@ -1,4 +1,4 @@
-Pasig City AI Guide
+# Pasig City AI Guide
 
 **Ionic React** mobile web app that helps tourists and locals discover Pasig City (Philippines).  
 Powered by **Groq Llama 3.3** (AI chat), **Firebase** (reviews, favourites, notifications), **Leaflet** (maps & directions), and **Web Speech API** (voice input / TTS).
